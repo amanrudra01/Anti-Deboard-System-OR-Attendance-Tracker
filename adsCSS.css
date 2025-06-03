@@ -1,0 +1,128 @@
+h1{
+    font-family:'Exo 2';
+    font-weight: 900;
+    color: #fff;
+    text-align: center;
+    text-shadow: 2px 2px 2px #434343;
+}
+
+.sec{
+    color: #ff0000;
+}
+
+.backgroundOfHeader{
+    background-color:rgb(255, 157, 0);
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+nav, footer{
+    background-color: rgb(82, 82, 82);
+    padding: 10px;
+}
+
+nav a, footer a{
+    text-decoration: none;
+    color: #fff;
+    font-family: 'Exo 2';
+    font-weight: 400;
+    padding: 2px;
+}
+
+select#courcecode,#presentattendence {
+    width: 200px;
+    padding: 5px;
+    font-size: 14px;
+    border: 1px solid #000000;
+    border-radius: 4px;
+    background-color: #fff;
+    color: #333;
+}
+
+select#courcecode option {
+    padding: px;
+    font-size: 14px;
+}
+
+input[type='radio']{
+    margin-right: 15px;
+}
+
+
+.sectionbg{
+    background-image: url("writing2.jpg");
+    /* background-color: #ffffff; */
+    background-position: right;
+    background-size: 1550px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* padding: 10px; */
+}
+
+h2,p{
+    font-family: 'Exo 2';
+    color: #fff;
+    
+}
+
+h4,h3{
+    font-family: 'Exo 2';
+    color: #fff;
+    border: black;
+}
+
+section{
+    background-color: rgba(0, 0, 0, 0.529);
+    padding: 10px;
+}
+
+.dis{
+    text-indent: 10px;
+}
+
+.submitButton,.resetButton{
+    background-color: rgb(255, 157, 0) ;
+    border: none;
+    color: #fff;
+    padding: 7px 16px;
+    margin: 5px;
+    border-radius: 8%;
+    text-shadow: 2px 1px 1px #3e3e3e;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.result{
+
+    border: #000000;
+    /* background-color: black; */
+    padding: 20px;
+    border: solid rgb(251, 251, 251);
+    font-family:'Exo 2';
+    font-weight: 900;
+    /* font-style: italic; */
+    color: #fff;
+}
+.result2{
+    font-family:'Exo 2';
+    font-weight: 900;
+    /* font-style: italic; */
+    color: #ff0000;
+}
+
+.Table{
+    color: #fff;
+    font-family: 'Exo 2';
+}
+
+table,tr,th,td{
+    border: solid rgb(255, 255, 255);
+    text-align: center;
+    border-collapse: collapse;
+    padding: 5px;
+}
