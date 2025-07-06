@@ -1,4 +1,7 @@
 # Anti-Deboard-System OR Attendance Tracker
+![HTML](https://img.shields.io/badge/HTML-Used-orange?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-Used-blue?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-Used-yellow?style=flat-square&logo=javascript)
 
 This is a simple web-based attendance summary tool to calculate and display attendance details for a semester course. It shows total classes, classes conducted, classes attended, and how many classes you need to attend to maintain a 75% attendance requirement. It also provides advice on whether you need to attend more classes or can afford to skip some.
 
