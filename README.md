@@ -38,8 +38,7 @@ You can extend this project by:
 
 ## License
 
-This project is open-source and free to use.
-
+MTI
 ---
 
 ## Author
