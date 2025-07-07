@@ -37,8 +37,7 @@ You can extend this project by:
 ---
 
 ## License
-
-MTI
+- MTI
 ---
 
 ## Author
